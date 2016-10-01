@@ -1,0 +1,47 @@
+
+/*Navigation Bar*/
+.nav-top{
+	padding-top: 50px;
+
+}
+.nav-top, ul{
+	list-style: none;
+	text-align: right;
+	padding-right: 75px;
+
+}
+
+.nav-top li{
+width: 200px;
+padding-top: 25px;
+padding-bottom: 25px;
+float:right;
+text-align: center;
+background-color: #d1d2d2;
+font-size: 16pt;
+
+}
+
+.nav-top li:hover{
+	cursor: pointer;
+	background-color: #002fad;
+	color: white;
+
+}
+
+
+
+/*images*/
+}
+.masthead-img{
+	width: 400px;
+}
+
+
+
+
+
+/*Layout*/
+.padding-50{
+	padding-top: 50px;
+}
