@@ -1,3 +1,32 @@
+/* Font and style settings */
+p{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.hr{
+	width: 400px;
+	top-border: 2px solid black;
+}
+h1{
+	font-family: 'Raleway', sans-serif;
+}
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 26pt;
+	line-height: 40px;
+	font-style: italic;
+
+}
+h3{
+	font-family: 'Raleway', sans-serif;
+	font-size: 24pt;
+	line-height: 40px;
+	text-align:right;
+	font-weight: 300;
+	
+}
 
 /*Navigation Bar*/
 .nav-top{
@@ -5,9 +34,12 @@
 
 }
 .nav-top, ul{
+	font-family: 'Raleway', sans-serif;
+
 	list-style: none;
 	text-align: right;
-	padding-right: 75px;
+	padding-right: 50px;
+
 
 }
 
@@ -31,13 +63,26 @@ font-size: 16pt;
 
 
 
-/*images*/
+/*images and text stylings*/
 }
 .masthead-img{
-	width: 400px;
+
 }
 
-
+.left-aside-image{
+	height: 400px;
+	float: left;
+	padding-left: 25px;
+	 box-shadow: 5px 5px #e8e8e8;
+}
+.right-aside-text{
+	margin-right: 50px;
+	background-color: #e8e8e8; 
+	border-radius: 15px 50px;
+	padding: 25px;
+	float: right;	
+	text-align: center;
+}
 
 
 
