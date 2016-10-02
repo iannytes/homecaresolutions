@@ -27,6 +27,13 @@ h3{
 	font-weight: 300;
 	
 }
+h4{
+	padding-top: 10px;
+	float: right;
+	margin-right: 150px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18pt;
+}
 
 /*Navigation Bar*/
 .nav-top{
@@ -70,18 +77,19 @@ font-size: 16pt;
 }
 
 .left-aside-image{
-	height: 400px;
+	height: 450px;
 	float: left;
 	padding-left: 25px;
 	 box-shadow: 5px 5px #e8e8e8;
 }
 .right-aside-text{
 	margin-right: 50px;
-	background-color: #e8e8e8; 
+	background-color: #014da5; 
 	border-radius: 15px 50px;
 	padding: 25px;
 	float: right;	
 	text-align: center;
+	color: white;
 }
 
 
