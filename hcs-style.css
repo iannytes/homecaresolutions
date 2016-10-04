@@ -71,17 +71,26 @@ font-size: 16pt;
 
 
 /*images and text stylings*/
-}
-.masthead-img{
 
+.masthead-img{
+	width: 250px:;
+
+	height: 250px;
 }
 
 .left-aside-image{
-	height: 450px;
+	height: 600px;
 	float: left;
 	padding-left: 25px;
 	 box-shadow: 5px 5px #e8e8e8;
 }
+.right-aside-image{
+	height: 500px;
+	margin-right: 25px;
+	float: left;
+	
+	}
+
 .right-aside-text{
 	margin-right: 50px;
 	background-color: #014da5; 
@@ -91,10 +100,24 @@ font-size: 16pt;
 	text-align: center;
 	color: white;
 }
+.left-aside-text{
+	margin-left: 50px;
+	background-color: #014da5; 
+	border-radius: 15px 50px;
+	padding: 25px;
+	float: left;	
+	text-align: center;
+	color: white;
+}
 
-
+.opacity{
+	opacity: 0.7;
+}
 
 /*Layout*/
 .padding-50{
 	padding-top: 50px;
+}
+.padding-50-bot{
+	padding-bottom: 50px;
 }
