@@ -79,9 +79,9 @@ font-size: 16pt;
 }
 
 .left-aside-image{
-	height: 600px;
+	width: 700px;
 	float: left;
-	padding-left: 25px;
+	margin-left: 25px;
 	 box-shadow: 5px 5px #e8e8e8;
 }
 .right-aside-image{

@@ -79,13 +79,13 @@ font-size: 16pt;
 }
 
 .left-aside-image{
-
+	width: 700px;
 	float: left;
 	margin-left: 25px;
 	 box-shadow: 5px 5px #e8e8e8;
 }
 .right-aside-image{
-	height: 500px;
+	width: 700px;
 	margin-right: 25px;
 	float: left;
 	
